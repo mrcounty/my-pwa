@@ -8,14 +8,31 @@
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "https://i.postimg.cc/MZj3R6sM/Whats-App-Image-2024-11-29-at-15-24-30-865122cb.jpg",
-      "sizes": "512x512",
+      "src": "https://i.postimg.cc/B6jYm44z/Whats-App-Image-2024-11-29-at-15-24-32-5545828f.jpg",
+      "sizes": "48x48",
       "type": "image/jpeg"
     },
     {
-      "src": "https://i.postimg.cc/B6jYm44z/Whats-App-Image-2024-11-29-at-15-24-32-5545828f.jpg",
-      "sizes": "196x196",
+      "src": "https://i.postimg.cc/MZj3R6sM/Whats-App-Image-2024-11-29-at-15-24-30-865122cb.jpg",
+      "sizes": "512x512",
       "type": "image/jpeg"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://i.postimg.cc/pTj72R4F/screenshot-1732946878220m.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "platform": "desktop",
+      "form_factor": "wide"
+    },
+    {
+      "src": "https://i.postimg.cc/NG9CT6sk/Whats-App-Image-2024-11-30-at-09-12-31-07e0835a000000.jpg",
+      "sizes": "1080x1920",
+      "type": "image/jpeg",
+      "platform": "mobile",
+      "form_factor": "portrait"
     }
   ]
 }
+
