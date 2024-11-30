@@ -1,3 +1,4 @@
+
 {
   "name": "Duka la Likes",
   "short_name": "DukaLikes",
@@ -8,12 +9,12 @@
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "https://github.com/mrcounty/my-pwa/raw/main/WhatsApp%20Image%202024-11-29%20at%2015.24.31_9fcb78e3.jpg",
+      "src": "/images/WhatsApp%20Image%202024-11-29%20at%2015.24.31_9fcb78e3.jpg",
       "sizes": "48x48",
       "type": "image/jpeg"
     },
     {
-      "src": "https://github.com/mrcounty/my-pwa/raw/main/WhatsApp%20Image%202024-11-29%20at%2015.24.32_5545828f.jpg",
+      "src": "/images/WhatsApp%20Image%202024-11-29%20at%2015.24.32_5545828f.jpg",
       "sizes": "72x72",
       "type": "image/jpeg"
     }
