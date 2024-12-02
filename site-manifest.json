@@ -2,7 +2,7 @@
   "name": "Duka la Likes",
   "short_name": "DukaLikes",
   "description": "A platform for growing your social media following",
-  "start_url": "/signin.twig",
+  "start_url": "/",
   "scope": "/",
   "display": "standalone",
   "background_color": "#ffffff",
