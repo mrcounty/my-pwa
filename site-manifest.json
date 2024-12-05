@@ -1,14 +1,16 @@
 {
   "name": "Duka la Likes",
   "short_name": "DukaLikes",
+  "id": "/",
   "description": "A platform for growing your social media following",
-  "start_url": "index.html",
+  "start_url": "/",
   "scope": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
   "orientation": "portrait",
   "lang": "en",
+  "categories": ["social", "productivity"],
   "icons": [
     {
       "src": "https://i.postimg.cc/RZSPmc8N/48.png",
